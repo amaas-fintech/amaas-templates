@@ -1,1 +1,1 @@
-asset_id,asset_issuer_id,asset_status,display_name,description,country_id,venue_id,currency,issue_date
+asset_issuer_id,display_name,description,country_id,venue_id,currency,issue_date
