@@ -1,1 +1,1 @@
-asset_id,settlement_type,contract_size,point_value,tick_size,quote_unit,asset_issuer_id,issue_date,expiry_date,currency,display_name,description,country_id,venue_id
+amaasclass,asset_id,settlement_type,contract_size,point_value,tick_size,quote_unit,asset_issuer_id,issue_date,expiry_date,currency,display_name,description,country_id,venue_id
